@@ -7,7 +7,7 @@ import queue
 import HOST
 import game
 
-HEADERSIZE= 10
+HEADERSIZE= 9
 
 #Glowna klasa odpowiedzialna za zarzadzanie cala reszta
 def main():
